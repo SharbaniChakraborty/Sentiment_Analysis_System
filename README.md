@@ -1,6 +1,6 @@
 # Sentiment_Analysis_System
 It is a natural language processing application which can analyze the sentiment on the basis of the text given by the user either through feedback, survey, form etc.
-This application can predict the sentiments into 3 categories which are positive, negative and neutral. It can even access the data from a google form through google sheets. It's a web application which can be utilized on a local area network.
+This application (made as part of an online course that I did); can predict the sentiments into 3 categories which are positive, negative and neutral. It can even access the data from a google form through google sheets. It's a web application which can be utilized on a local area network.
 
 # Why is it even needed?
 1.	This project has a wide range of applications such as product/service monitoring, Surveys regarding a topic, event, personality and comments.
